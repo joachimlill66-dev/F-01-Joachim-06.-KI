@@ -41,3 +41,35 @@ Ufunded ist für Händler interessant, die bereits eine statistisch erwiesene, p
 - Den hohen Einstiegskosten. Wer noch keine funktionierende Strategie hat, verbrennt hier sein eigenes Geld sehr schnell, nur in Form von "Kaufgebühren" für das Konto.
 
 _Datum der Recherche: 2026-06-20_
+
+---
+
+## 5. Erstes Trading-Journal (Kontoauszug vom 22.06.2026)
+
+Basierend auf dem offiziellen "Single-Currency account statement" (Zeitraum: 11. Mai 2026 – 22. Juni 2026) ergibt sich folgendes Bild für den ersten Live-Handel auf der Ufunded-Plattform:
+
+### 📈 Performance-Metriken
+* **Startkapital:** 180.000,00 $
+* **Aktueller Kontostand (Balance):** 183.283,32 $
+* **Aktuelle Equity (inkl. offenen Positionen):** 183.016,96 $
+* **Realisierter Gewinn (Settled PnL):** **+3.496,37 $** (Ein solider erster Meilenstein!)
+* **Aktueller Drawdown (Floating PnL):** -266,36 $
+
+### 🔍 Trade-Analyse & Regel-Audit
+In den Unterlagen ist eine sehr hohe Trading-Frequenz ersichtlich (teils viele Trades an einem Tag, z.B. am 18.06.). Besonders kritisch sind jedoch die aktuell noch **offenen Positionen** in Bezug auf unser Regelwerk (Setup C):
+
+1. **Broadcom (AVGO) - Short Position:**
+   * **Größe:** 87 Stück | **Kaufkurs:** 409,12 $ | **Aktueller Kurs:** 412,00 $
+   * **Floating PnL:** -250,50 $
+   * **Take Profit:** 405,34 $
+   * 🚨 **KRITISCHER REGELVERSTOSS:** Es ist kein Stop-Loss hinterlegt! Das widerspricht der elementaren Regel der "Disaster Protection".
+   
+2. **Apple (AAPL) - Long Position:**
+   * **Größe:** 1 Stück | **Kaufkurs:** 314,35 $ | **Aktueller Kurs:** 298,49 $
+   * **Floating PnL:** -15,86 $
+   * **Stop-Loss:** 292,09 $ (Risiko = 22,26 $)
+   * **Take Profit:** 319,19 $ (Potenzieller Gewinn = 4,84 $)
+   * ⚠️ **WARNUNG:** Das Chance-Risiko-Verhältnis (CRV) liegt bei ca. 1:4 (wir riskieren 22 $, um 4 $ zu gewinnen). Dies widerspricht der "1:1 Risiko-verdient"-Regel für Setup C.
+
+**Fazit des ersten Sprints:**
+Das Konto ist profitabel gestartet, was sehr erfreulich ist! Allerdings deuten die jüngsten offenen Trades auf eine beginnende Inkonsequenz bei der Ausführung des Setup C (Stop-Loss vergessen, schlechtes CRV). Hier muss die mechanische Disziplin sofort wieder geschärft werden.

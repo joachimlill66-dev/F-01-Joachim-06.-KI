@@ -18,7 +18,7 @@ if %ERRORLEVEL% neq 0 (
     echo ====================================
     echo FEHLER: "git add" ist fehlgeschlagen!
     echo ====================================
-    pause
+    timeout /t 5
     exit /b
 )
 
@@ -41,7 +41,7 @@ if %ERRORLEVEL% neq 0 (
     echo ====================================
     echo FEHLER BEIM HOCHLADEN! (git push)
     echo ====================================
-    pause
+    timeout /t 5
     exit /b
 )
 
@@ -49,4 +49,4 @@ echo.
 echo ====================================
 echo ERFOLG! Alles ist auf GitHub gesichert!
 echo ====================================
-pause
+timeout /t 5

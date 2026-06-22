@@ -19,6 +19,10 @@
 - [[08_Portfolio_Dashboard|08 Portfolio Dashboard]] (Die Zentrale für deine Live-Depots, Snapshots und Historien)
 - [[09_Einzelaktien_ProRealTime|09 Einzelaktien ProRealTime]] (Archiv mit allen Einzelaktien, Tickern und tiefen Analysen)
 
+## 📚 Trading-Wissen & Playbooks
+- [[Daytrading-Premarket-Gaps]] (Umgang mit roten Vorbörsen, Ex-Dividenden und Eröffnungsgaps)
+- [[Masterclass-US-Indizes]] (Unterschiede S&P 500, Nasdaq, Dow Jones & Russell erklärt)
+
 ### 🏢 Einzelaktien & Analysen (ProRealTime)
 *Direktlinks zu den Firmenordnern:*
 - **Halbleiter & KI-Infrastruktur:** [[AMD]] | [[ANET]] | [[ARM]] | [[ASML]] | [[Broadcom]] | [[Nvidia]] | [[TSM]]
@@ -42,6 +46,15 @@
 - 2026.06.21: Im Ordner 08_Portfolio-ProRetailTime einen neuen Ordner `Watchliste` erstellt und die [[30-Top-Langfrist-Watchlist]] (Megatrends) angelegt und verlinkt.
 - 2026.06.21: **UMFASSENDE STRUKTURAKTUALISIERUNG:** Ordnerstruktur von 01 bis 08 etabliert (z.B. 01_Marktueberblick, 06_Watchliste, 07_Pending Orders). Alle Einzelaktien (Halbleiter & Cybersecurity) strukturiert in das Inhaltsverzeichnis (MOC) integriert.
 - 2026.06.22: MOC aktualisiert. Veralteten Ordner 05_Börse entfernt und Ordner 08 und 09 an die neue Struktur (Portfolio_Dashboard und Einzelaktien_ProRealTime) angepasst.
+- 2026.06.22: `/portfolio` ausgeführt, Live-Daten für Tech-Aktien aktualisiert und Snapshot 2026-06-22-portfolio-bestand erstellt.
+- 2026.06.22: Morning Briefing (`2026-06-22-morning-briefing.md`) basierend auf News aus Asien und Global Futures erstellt.
+- 2026.06.22: Ufunded PDF-Kontoauszug analysiert und Daten für das Prop-Trading-Konto in der Portfolio-Übersicht aktualisiert.
+- 2026.06.22: `2026-06-22-earnings-watcher.md` erstellt. Keine Quartalszahlen für Alphabet, Nvidia, Tesla oder Broadcom in den nächsten 7 Tagen.
+- 2026.06.22: Den lokalen AKJ2 Signalreport (`AKJ2 Signalreport 26-06-22 korrigiert.html`) analysiert und die besten Setup C Kandidaten unter `06_Watchliste\Review-Protokolle\2026-06-22-AKJ-Signale.md` zusammengefasst.
+- 2026.06.22: Ausführlichen Zwischenbericht zum Wochenauftakt für DAX und US-Märkte (`2026-06-22-wochenauftakt.md`) erstellt.
+- 2026.06.22: `Daytrading-Premarket-Gaps.md` und `Masterclass-US-Indizes.md` im neuen Wissensordner (`10_Wissen_und_Playbooks`) erstellt und verlinkt.
+- 2026.06.22: Alphabet (GOOGL) Re-Entry gebucht und Palantir (PLTR) neu in das Langfrist-Portfolio aufgenommen. Snapshot `2026-06-22-portfolio-bestand-v2` erstellt.
+
 
 ---
 **Tags:** #AMD #ANET #ARM #ASML #AVGO #NVDA #TSM #CRWD #NET #PANW #S #ZS #ADBE #GOOGL #AMZN #SQ #NKE #TSLA

@@ -1,6 +1,6 @@
 ﻿# Vault Inhaltsverzeichnis
 
-*(Zuletzt automatisch aktualisiert: 22.06.2026 02:07)*
+*(Zuletzt automatisch aktualisiert: 22.06.2026 22:04)*
 
 - [[00_Auto_Backup.bat]]
 - [[00_Git_Reparatur.bat]]
@@ -101,6 +101,27 @@
 >   - [[Lektion_04_Die_Kunst_des_Ausstiegs]]
 >   - [[Lektion_05_Psychologie_und_Checklisten]]
 >   - [[Lektion_06_Routine_und_Tracking]]
+> - **09_Marktstrategien_Masterclass/**
+>   - [[00_Marktstrategien_Start]]
+>   - [[Lektion_01_Die_beiden_Lager_Fundamental_vs_Technik]]
+>   - [[Lektion_02_Trendfolge_und_Momentum]]
+>   - [[Lektion_03_Mean_Reversion]]
+>   - [[Lektion_04_Value_und_Growth_Investing]]
+>   - [[Lektion_05_Sentiment_und_Makro_Analyse]]
+>   - [[Lektion_06_Dividenden_Strategie]]
+>   - [[Lektion_07_Options_Strategien]]
+>   - [[Lektion_08_Die_Minervini_Strategie]]
+>   - [[Lektion_09_Zeitfenster_Skalp_bis_BuyAndHold]]
+>   - [[Lektion_10_Deep_Dive_Technische_Analyse_Start]]
+>   - [[Lektion_11_Die_Sprache_der_Kerzen_verstehen]]
+>   - [[Lektion_12_Marktstruktur_und_Zonen]]
+>   - [[Lektion_13_Indikatoren_als_Hilfsmittel_nicht_als_Gesetz]]
+>   - [[Lektion_14_Die_schmutzige_Wahrheit_Fehlausbrueche_und_Gaps]]
+>   - [[Lektion_15_Deep_Dive_Minervini_Start]]
+>   - [[Lektion_16_Das_Trend_Template]]
+>   - [[Lektion_17_Das_Volatility_Contraction_Pattern_VCP]]
+>   - [[Lektion_18_Der_Pivot_Point_und_Fundamentale_Treiber]]
+>   - [[Lektion_19_Minervinis_Eisernes_Risikomanagement]]
 > - **90_Plans/**
 
 > [!abstract]- 02_Tagebuch
@@ -128,6 +149,7 @@
 >     - [[2026-06-19-daily-market-update]]
 >     - [[2026-06-21-daily-market-update]]
 >     - [[2026-06-21-short-update]]
+>     - [[2026-06-22-daily-update]]
 >   - **market-updates/**
 >     - [[2026-06-14-marktueberblick]]
 >     - [[2026-06-15-marktueberblick]]
@@ -137,10 +159,13 @@
 >     - [[2026-06-19-daily-market-overview]]
 >     - [[2026-06-19-marktueberblick]]
 >     - [[2026-06-21-marktueberblick]]
+>     - [[2026-06-22-marktueberblick]]
 >   - **Morning Briefing/**
 >     - [[2026-06-19-markt-kompass]]
 >     - [[2026-06-20-morning-briefing]]
 >     - [[2026-06-21-morning-briefing]]
+>     - [[2026-06-22-morning-briefing]]
+>     - [[2026-06-22-wochenauftakt]]
 >   - **Outputs/**
 >     - [[2026-06-14-aktienanalyse-garp-value]]
 >     - [[2026-06-14-konkurrenzanalyse-garp-portfolio]]
@@ -159,8 +184,27 @@
 > - **06_Watchliste/**
 >   - [[2026-06-21-watchlist-screener]]
 >   - [[30-Top-Langfrist-Watchlist]]
+>   - [[Dow-Jones-30.csv]]
+>   - [[Nasdaq-100.csv]]
 >   - **Review-Protokolle/**
 >     - [[2026-06-21-Review]]
+>     - [[2026-06-22-AKJ-Signale]]
+>   - [[Russell-2000-Teil01.csv]]
+>   - [[Russell-2000-Teil02.csv]]
+>   - [[Russell-2000-Teil03.csv]]
+>   - [[Russell-2000-Teil04.csv]]
+>   - [[Russell-2000-Teil05.csv]]
+>   - [[Russell-2000-Teil06.csv]]
+>   - [[Russell-2000-Teil07.csv]]
+>   - [[Russell-2000-Teil08.csv]]
+>   - [[Russell-2000-Teil09.csv]]
+>   - [[Russell-2000-Teil09-bis-11.csv]]
+>   - [[Russell-2000-Teil10.csv]]
+>   - [[Russell-2000-Teil11.csv]]
+>   - [[Russell-2000-Teil12.csv]]
+>   - [[SP500-Teil1.csv]]
+>   - [[SP500-Teil2.csv]]
+>   - [[SP500-Teil3.csv]]
 >   - [[Watchlist-Fortsetzung-Todo]]
 > - **07_Pending Orders/**
 >   - [[Listen---01...Pending-Orders2026-06-21 18-00.png]]
@@ -172,7 +216,11 @@
 >   - **Snapshots/**
 >     - [[2026-06-20-portfolio-bestand]]
 >     - [[2026-06-21-portfolio-bestand]]
+>     - [[2026-06-22-portfolio-bestand]]
+>     - [[2026-06-22-portfolio-bestand-v2]]
+>     - [[Detaillierter Bericht - 945191 (U7630640) - Alle Instrumente2026-06+22.csv]]
 >     - [[Portfolio ProRealTime Screenshot 2026-06-20 193555.png]]
+>     - [[Portfolio2026-06-22.png]]
 > - **09_Einzelaktien_ProRealTime/**
 >   - [[00_Einzelaktien_Index]]
 >   - **Adobe/**
@@ -186,6 +234,7 @@
 >   - **Alphabet/**
 >     - [[analyse-2026-06-16]]
 >     - [[GOOGL-Täglich.png]]
+>     - [[GOOGL-Täglich2026-06-22.png]]
 >   - **Amazon/**
 >     - [[2026-06-16-kursdaten-divergenz-amzn]]
 >     - [[2026-06-16-trade-journal-amzn]]
@@ -223,6 +272,7 @@
 >     - [[00_Earnings_MOC]]
 >     - [[2026-06-20-earnings-watcher]]
 >     - [[2026-06-21-earnings-watch]]
+>     - [[2026-06-22-earnings-watcher]]
 >   - **FSLR/**
 >     - [[analyse-2026-06-21]]
 >     - [[FSLR-Täglich2026-06-21.png]]
@@ -274,6 +324,7 @@
 >     - [[analyse-2026-06-21]]
 >     - [[Notizen]]
 >     - [[PLTR-Täglich2026-06-21.png]]
+>     - [[PLTR-Täglich2026-06-22.png]]
 >   - **PWR/**
 >     - [[analyse-2026-06-21]]
 >     - [[Notizen]]
@@ -311,6 +362,10 @@
 >     - [[analyse-2026-06-21]]
 >     - [[Notizen]]
 >     - [[TSM-Täglich2026-06-21.png]]
+>   - **Ufunded/**
+>     - [[0..Long AKJ 22.06.26.csv]]
+>     - [[0..Long AKJ 22.06.26.txt]]
+>     - [[Single-Currency_account_statement.pdf]]
 >   - **V/**
 >     - [[analyse-2026-06-21]]
 >     - [[Notizen]]
@@ -323,6 +378,9 @@
 >     - [[analyse-2026-06-21]]
 >     - [[Notizen]]
 >     - [[ZS-Täglich2026-06-21.png]]
+> - **10_Wissen_und_Playbooks/**
+>   - [[Daytrading-Premarket-Gaps]]
+>   - [[Masterclass-US-Indizes]]
 
 > [!abstract]- 04_Wissen_Ressourcen
 > - [[00_Wissen_MOC]]

@@ -1,13 +1,6 @@
-# Portfolio-Übersicht & Dashboard
+# Portfolio-Übersicht & Dashboard (Snapshot 2026-06-22 v2)
 
-> Diese Datei ist das zentrale Live-Dashboard für alle aktiven Positionen. Sie wird beim Aufruf des Befehls `/portfolio` automatisch von der KI mit Live-Daten aktualisiert.
-
----
-
-## 🔗 Schnellzugriff (Trading-Zentrale)
-- 🔭 **Watchliste:** [[30-Top-Langfrist-Watchlist]] *(Alle Lauer-Aktien und Fallende Messer)*
-- ⏳ **Offene Orders:** Siehe Ordner `07_Pending Orders`
-- 📜 **Historie & Logs:** [[Portfolio-Historie]]
+> Snapshot erstellt am 2026-06-22 nach Alphabet-Neukauf und Palantir-Aufnahme. Werte direkt aus dem ProRealTime Screenshot übernommen.
 
 ---
 
@@ -47,8 +40,3 @@
 | ------ | -------- | --------- | ------------------------ | ---------------- |
 | AVGO (Short) | 409,12 $ | ⚠️ *Fehlt!* | 405,34 $ | 87 Stk. PnL: -250,50 $. Regelverstoß: Kein SL im System! |
 | AAPL (Long) | 314,35 $ | 292,09 $ | 319,19 $ | 1 Stk. PnL: -15,86 $. (CRV prüfen, entspricht nicht 1:1 Regel) |
-
----
-
-## ℹ️ Bedienung für den Assistenten
-Wann immer der Nutzer im Chat den Befehl `/portfolio` eingibt, MUSS diese Datei mittels der Funktion `search_web` aktualisiert werden (Aktuelle Kurse abfragen, Gesamtwert neu berechnen). Ein Snapshot dieses Zustands wird im Unterordner `Snapshots/` abgelegt.

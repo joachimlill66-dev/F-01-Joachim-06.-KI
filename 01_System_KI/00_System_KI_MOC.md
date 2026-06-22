@@ -19,6 +19,7 @@
 - [[04_Obsidian_Masterclass/00_Obsidian_Start|Obsidian Masterclass]] (Das Tool beherrschen)
 - [[05_KI_Second_Brain_Masterclass/00_KI_Second_Brain_Start|KI-Second Brain Masterclass]] (KI-Workflows & Automatisierung)
 - [[08_Handelsstrategie_Masterclass/00_Handelsstrategie_Start|Handelsstrategie Masterclass]] (Regelwerk in der Praxis)
+- [[09_Marktstrategien_Masterclass/00_Marktstrategien_Start|Marktstrategien Masterclass]] (Überblick Handelsansätze & Strategien)
 
 ## 📝 Änderungsprotokoll (Changelog)
 - 2026.06.17: MOC und Änderungsprotokoll (Changelog) initiiert.
@@ -38,3 +39,4 @@
 - 2026.06.20: Neue [[00_KI_Second_Brain_Start|KI-Second Brain Masterclass]] (Lektionen 1-6) im Verzeichnis `05_KI_Second_Brain_Masterclass` generiert.
 - 2026.06.20: Slash-Commands zur `Arbeitsanweisung für den KI-Assistenten.md` hinzugefügt und `Uebersicht_KI_Plugins_und_Skills.md` erstellt.
 - 2026.06.22: Neuer Ordnerbereich `System-Ordner` im MOC ergänzt und den umbenannten Ordner `90_Plans` integriert.
+- 2026.06.22: Neue [[09_Marktstrategien_Masterclass/00_Marktstrategien_Start|Marktstrategien Masterclass]] (Lektionen 1-9) generiert und verlinkt.
