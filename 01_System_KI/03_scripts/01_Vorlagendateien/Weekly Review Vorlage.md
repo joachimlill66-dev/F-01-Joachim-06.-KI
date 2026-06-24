@@ -1,7 +1,7 @@
 # Prompt-Vorlage: Weekly Portfolio Review
 
 > [!CAUTION]
-> **KI-ANWEISUNG:** Zwingend Live-Daten (Schlusskurse, RSI, MACD) über `search_web` abfragen! Nichts halluzinieren.
+> **KI-ANWEISUNG:** Zwingend Live-Daten (Schlusskurse, RSI, MACD) über `search_web` abfragen! Hierfür ist **ausschließlich Yahoo Finance** (`site:finance.yahoo.com`) heranzuziehen, um Falschdaten zu vermeiden. Nichts halluzinieren.
 
 **Zweck:** Diese Vorlage wird vom Cronjob jeden Sonntag um 10:00 Uhr genutzt, um das wöchentliche Review für das Portfolio zu generieren.
 

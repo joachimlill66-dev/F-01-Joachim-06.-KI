@@ -1,4 +1,4 @@
-> *Erstellt am: 2026-06-21*
+﻿> *Erstellt am: 2026-06-21*
 
 # 📅 Earnings Watcher – 21. Juni 2026
 
@@ -16,3 +16,13 @@ Hier ist dein automatischer Radar für die anstehenden Quartalszahlen unserer Ke
 **Fazit:** Der nächste große Earnings-Block für uns rollt erst Ende Juli mit Tesla und Alphabet an. Bis dahin sollten wir uns mehr auf Makro-Daten und technische Indikatoren fokussieren, da von Seiten der Geschäftszahlen keine sofortigen Schocks zu erwarten sind.
 
 #GOOGL #TSLA #NVDA #AVGO
+
+
+---
+## 🔗 Weitere Dateien zu diesem Ticker
+- [[Earnings/00_Earnings_MOC|00_Earnings_MOC]]
+- [[Earnings/2026-06-20-earnings-watcher|2026-06-20-earnings-watcher]]
+- [[Earnings/2026-06-21-earnings-watch|2026-06-21-earnings-watch]]
+- [[Earnings/2026-06-22-earnings-watcher|2026-06-22-earnings-watcher]]
+- [[Earnings/2026-06-23-earnings-watcher|2026-06-23-earnings-watcher]]
+- [[Earnings/2026-06-24-earnings-watcher|2026-06-24-earnings-watcher]]

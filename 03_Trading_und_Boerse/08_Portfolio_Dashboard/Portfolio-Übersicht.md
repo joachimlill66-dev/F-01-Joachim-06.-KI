@@ -13,21 +13,21 @@
 
 ## 1. Langfrist-Portfolio (Core)
 
-| Aktie / Ticker   | Anzahl | Kaufkurs | Aktueller Kurs | Gewinn/Verlust | Notizen |
-| ---------------- | ------ | -------- | -------------- | -------------- | ------- |
-| Alphabet (GOOGL) | 15     | 347,07 $ | 347,05 $       | -0,75 $        | Neu-Einstieg |
-| Amazon (AMZN)    | 10     | 242,20 $ | 233,56 $       | -86,60 $       |         |
-| Broadcom (AVGO)  | 10     | 373,25 $ | 396,22 $       | +229,20 $      |         |
-| Nvidia (NVDA)    | 20     | 199,10 $ | 208,83 $       | +194,60 $      |         |
-| Palantir (PLTR)  | 20     | 120,20 $ | 120,37 $       | +3,00 $        | Neu aufgenommen |
-| Tesla (TSLA)     | 10     | 381,65 $ | 407,39 $       | +257,10 $      |         |
+| Aktie / Ticker | Anzahl | Kaufkurs | Aktueller Kurs | Exposure (USD) | Gewinn/Verlust | Notizen |
+| --- | --- | --- | --- | --- | --- | --- |
+| Alphabet (GOOGL) | 15 | 347,07 $ | 349,04 $ | 5.235,60 $ | +29,55 $ | Stop: 339,74 $ |
+| Amazon (AMZN) | 10 | 242,20 $ | 238,69 $ | 2.386,90 $ | -35,10 $ | Stop: 230,09 $ |
+| ASML (ASML) | 5 | 1.797,00 $ | 1.746,61 $ | 8.733,05 $ | -251,95 $ | Stop: 1.707,15 $ |
+| Broadcom (AVGO) | 10 | 377,10 $ | 378,94 $ | 3.789,40 $ | +18,40 $ | Stop: 360,89 $ |
+| Nvidia (NVDA) | 20 | 201,55 $ | 200,90 $ | 4.018,00 $ | -13,00 $ | Stop: 191,47 $ |
+| **GESAMTSUMME** | | | | **24.162,95 $**| **-252,10 $** | |
 
 ### Schlüsselmetriken (Langfrist)
 | Metrik | Aktueller Wert | Notizen |
 | ------ | -------------- | ------- |
-| Portfolio-Gesamtwert | 20.669,76 € | Inklusive Cash-Bestand |
-| Potenzieller Gewinn | +521,98 € | (Wechselkurs EUR/USD 1,1429) |
-| Cash-Bestand | 1.278,54 € | Exakt aus CSV (GOOGL Exit zu 358,56 $) berechnet |
+| Portfolio-Gesamtwert | 19.614,34 € | Aktienwert (21.132,54 €) + Cash |
+| Potenzieller Gewinn | -220,48 € | PnL in USD (-252,10 $) umgerechnet (Rate: ~1.143) |
+| Cash-Bestand | -1.518,20 € | Negativ durch Aktienkäufe (Nachschuss erf.) |
 
 ---
 
@@ -37,18 +37,21 @@
 
 | Metrik | Aktueller Wert | Limit / Ziel |
 | ------ | -------------- | ------------ |
-| Kontostand (Balance) | 183.283,32 $ | Startkapital: 180.000,00 $ |
-| Equity (inkl. Floating) | 183.016,96 $ | |
+| Kontostand (Balance) | 183.686,60 $ | Startkapital: 180.000,00 $ |
+| Equity (inkl. Floating) | 183.865,10 $ | |
 | Verfügbarer Max-Drawdown | *N/A* | *Verlust-Limit eintragen* |
 | Aktuelles Risiko pro Trade | *N/A* | (max. 1-2% vom Drawdown) |
 
 **Aktive Setup C Trades:**
 | Ticker | Kaufkurs | Stop-Loss | Ziel 1 (50% Take Profit) | Status / Notizen |
 | ------ | -------- | --------- | ------------------------ | ---------------- |
-| AVGO (Short) | 409,12 $ | ⚠️ *Fehlt!* | 405,34 $ | 87 Stk. PnL: -250,50 $. Regelverstoß: Kein SL im System! |
-| AAPL (Long) | 314,35 $ | 292,09 $ | 319,19 $ | 1 Stk. PnL: -15,86 $. (CRV prüfen, entspricht nicht 1:1 Regel) |
+| GOOGL (Long) | 347,89 $ | 348,13 $ | 392,45 $ | 100 Stk. Möglicherweise ausgestoppt (Kurs 368,03 $, vorheriger Drop auf 345 $) |
 
 ---
 
 ## ℹ️ Bedienung für den Assistenten
-Wann immer der Nutzer im Chat den Befehl `/portfolio` eingibt, MUSS diese Datei mittels der Funktion `search_web` aktualisiert werden (Aktuelle Kurse abfragen, Gesamtwert neu berechnen). Ein Snapshot dieses Zustands wird im Unterordner `Snapshots/` abgelegt.
+Wann immer der Nutzer im Chat den Befehl `/portfolio` eingibt ODER eine neue CSV-Datei für das Portfolio bereitstellt, MUSS folgendes passieren:
+1. Diese Datei (`Portfolio-Übersicht.md`) mittels der Funktion `search_web` aktualisieren (Aktuelle Kurse abfragen, Gesamtwert neu berechnen). Dabei **MUSS** zwingend explizit nach "Yahoo Finance [Ticker] price" (in USD) gesucht werden, um ADR-Fehler auszuschließen!
+2. Ein Snapshot dieses Zustands im Unterordner `Snapshots/` ablegen.
+3. ZWINGEND die Datei `Portfolio-Historie.md` öffnen und eine neue Zeile mit den aggregierten Metriken (Gesamtwert, Cash, PnL) anhängen!
+4. WICHTIG: Wenn ein Screenshot bereitgestellt wird, MÜSSEN alle Daten (Gesamtwert, PnL, Kurse) exakt abgelesen werden. Addiere niemals blind das Exposure neuer Aktien zum Portfolio-Wert!

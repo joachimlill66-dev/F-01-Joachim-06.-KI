@@ -12,7 +12,7 @@ Revenue_Actual:
 # 📊 Earnings Bericht: {{title}}
 
 > [!CAUTION]
-> **KI-ANWEISUNG:** EPS und Umsatz-Zahlen (Actuals vs Estimates) sowie Guidance zwingend per `search_web` aus verlässlichen Finanzquellen abfragen!
+> **KI-ANWEISUNG:** EPS und Umsatz-Zahlen (Actuals vs Estimates) sowie Guidance zwingend per `search_web` aus **verlässlichen Finanzquellen wie Yahoo Finance** (`site:finance.yahoo.com`) abfragen!
 
 ## 📋 Zusammenfassung der Zahlen
 

@@ -1,7 +1,7 @@
 # Daily Market Update – [Datum, z.B. 16. Juni 2026]
 
 > [!CAUTION]
-> **KI-ANWEISUNG:** Zwingend Live-News, Zinsentscheidungen und Sektor-Trends via `search_web` abfragen!
+> **KI-ANWEISUNG:** Zwingend Live-News, Zinsentscheidungen und Sektor-Trends via `search_web` abfragen! **Pflichtquelle für Kurse: Yahoo Finance.**
 
 Guten Morgen Joachim! Hier ist dein tägliches Markt-Briefing. Die Märkte zeigen sich heute von ihrer [Adjektiv, z.B. dynamischen/ruhigen] Seite – es gibt einiges an Bewegung, das wir für dein Portfolio im Auge behalten sollten.
 

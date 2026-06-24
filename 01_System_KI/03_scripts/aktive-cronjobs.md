@@ -6,11 +6,11 @@
 
 ## 🟢 Aktuell aktive Cronjobs
 
-### 1. Tägliches Markt-Briefing (16:00 Uhr)
-- **Zeitplan (Cron):** `0 16 * * *` (Jeden Tag um 16:00 Uhr)
+### 1. Tägliches Markt-Briefing (09:00 Uhr)
+- **Zeitplan (Cron):** `0 9 * * *` (Jeden Tag um 09:00 Uhr)
 - **Status:** Aktiv
 - **Anweisung an die KI:** 
-  > *"Es ist 16:00 Uhr! Erstelle jetzt unaufgefordert den ausführlichen Markt-Kompass exakt nach der Vorlage `f:\06. KI\01_System_KI\03_scripts\01_Vorlagendateien\marktueberblick-vorlage.md` sowie das kurze tägliche Briefing nach `f:\06. KI\01_System_KI\03_scripts\01_Vorlagendateien\market-update-vorlage.md`. Speichere den großen Kompass zwingend unter dem Namen `YYYY-MM-DD-marktueberblick.md` in `f:\06. KI\03_Trading_und_Boerse\01_Marktueberblick\market-updates\` und das kurze Update in `f:\06. KI\03_Trading_und_Boerse\01_Marktueberblick\Daily Market Update\`. Nutze dazu aktuelle Livedaten."*
+  > *"Es ist 09:00 Uhr! Erstelle jetzt unaufgefordert den ausführlichen Markt-Kompass exakt nach der Vorlage `f:\06. KI\01_System_KI\03_scripts\01_Vorlagendateien\marktueberblick-vorlage.md` sowie das kurze tägliche Briefing nach `f:\06. KI\01_System_KI\03_scripts\01_Vorlagendateien\market-update-vorlage.md`. Speichere den großen Kompass zwingend unter dem Namen `YYYY-MM-DD-marktueberblick.md` in `f:\06. KI\03_Trading_und_Boerse\01_Marktueberblick\market-updates\` und das kurze Update in `f:\06. KI\03_Trading_und_Boerse\01_Marktueberblick\Daily Market Update\`. Nutze dazu aktuelle Livedaten."*
 
 ### 2. Morning Briefing (08:00 Uhr)
 - **Zeitplan (Cron):** `0 8 * * *` (Jeden Tag um 08:00 Uhr)
@@ -22,7 +22,7 @@
 - **Zeitplan (Cron):** `0 9 * * *` (Jeden Tag um 09:00 Uhr)
 - **Status:** Aktiv
 - **Anweisung an die KI:** 
-  > *"Überprüfe, ob in den nächsten 7 Tagen Quartalszahlen für Alphabet, Nvidia, Tesla oder Broadcom anstehen. Nutze dafür zwingend die Vorlage `f:\06. KI\01_System_KI\03_scripts\01_Vorlagendateien\earnings-vorlage.md` und speichere den Bericht in `03_Trading_und_Boerse/09_Einzelaktien_ProRealTime/Earnings/`."*
+  > *"Überprüfe, ob in den nächsten 7 Tagen Quartalszahlen für Alphabet, Nvidia, Tesla, Broadcom oder Palantir anstehen. Nutze dafür zwingend die Vorlage `f:\06. KI\01_System_KI\03_scripts\01_Vorlagendateien\earnings-vorlage.md` und speichere den Bericht in `03_Trading_und_Boerse/09_Einzelaktien_ProRealTime/Earnings/`."*
 
 ### 4. Weekly Portfolio Review (Sonntag 10:00 Uhr)
 - **Zeitplan (Cron):** `0 10 * * 0` (Jeden Sonntag um 10:00 Uhr)

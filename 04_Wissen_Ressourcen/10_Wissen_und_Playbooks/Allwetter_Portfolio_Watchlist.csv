@@ -1,0 +1,21 @@
+Ticker,Name,Kategorie,Gewichtungs_Typ
+MSFT,Microsoft,Wachstum,Anker
+GOOGL,Alphabet,Wachstum,Anker
+V,Visa,Wachstum,Anker
+UNH,UnitedHealth,Wachstum,Anker
+AMZN,Amazon,Wachstum,Core
+LLY,Eli Lilly,Wachstum,Core
+NVO,Novo Nordisk,Wachstum,Core
+ASML,ASML Holding,Wachstum,Core
+AVGO,Broadcom,Wachstum,Core
+NVDA,Nvidia,Wachstum,Volatil
+WMT,Walmart,Stabilität,Panzer
+PG,Procter & Gamble,Stabilität,Panzer
+JNJ,Johnson & Johnson,Stabilität,Panzer
+KO,Coca-Cola,Stabilität,Panzer
+WM,Waste Management,Stabilität,Panzer
+JPM,JPMorgan Chase,Stabilität,Finanzen/Zykliker
+ALV,Allianz,Stabilität,Finanzen/Zykliker
+XOM,ExxonMobil,Stabilität,Finanzen/Zykliker
+MCD,McDonald's,Stabilität,Finanzen/Zykliker
+NEE,NextEra Energy,Stabilität,Finanzen/Zykliker

@@ -1,7 +1,7 @@
 # Trade-Journal: [Ticker-Symbol, z.B. NVDA]
 
 > [!CAUTION]
-> **KI-ANWEISUNG:** Fundamentaldaten (GARP-Check) und Support-Level zwingend via `search_web` abfragen!
+> **KI-ANWEISUNG:** Fundamentaldaten (GARP-Check) und Support-Level zwingend via `search_web` abfragen! Nutze dazu **strikt Yahoo Finance** (`site:finance.yahoo.com`), um Halluzinationen oder ADR-Verschiebungen auszuschließen.
 
 **Datum:** YYYY-MM-DD
 **Richtung:** [Long / Short]
@@ -39,4 +39,35 @@
 *Fazit: Wenn alle Kriterien erfüllt sind, ist der Trade genehmigt.*
 
 ---
-**📂 Zielordner für fertige Datei:** `02_Tagebuch\`
+**📂 Zielordner für fertige Datei:** `03_Trading_und_Boerse\10_Trading_Journal\01_Pre_Trade_Planung\`
+
+---
+
+## 🤖 Der KI-Trading-Rechner (Prompt)
+
+> **So nutzt du diesen Block:** Kopiere den folgenden Text, fülle die Werte in den eckigen Klammern aus und schicke ihn direkt hier in den Chat an mich. Ich berechne dir dann deine exakte Stückzahl und prüfe das Risiko!
+
+```text
+Ich plane einen Trade und möchte, dass du ihn nach meinem Strategieplan prüfst. Hier sind die Daten:
+
+#### Trading-Check: 
+Sektor:           [ Sektor eintragen, z.B. Technologie ]
+Datum:            [ Heutiges Datum ]
+Asset / Ticker:   [ TICKER ]
+
+Geplanter Take-Profit (TP):  [ Preis € / $ ]
+Aktueller Preis / Einstieg:  [ Preis € / $ ]
+Geplanter Stop-Loss (SL):    [ Preis € / $ ]
+
+Mein Gesamtkapital:          [ z.B. 20.000,00 € ]
+Max. Risiko vom Gesamtdepot: [ 1% ]
+
+ATR-Wert (1x):               [ Zahl ] 
+
+Bitte berechne für mich:
+1. Die exakte Positionsgröße (Stückzahl) basierend auf meiner 1%-Risikoregel.
+2. Das Chance-Risiko-Verhältnis (CRV). Ist es mindestens 2:1?
+3. Eine kurze Einschätzung: Ist der Stop-Loss sinnvoll gesetzt oder zu eng/weit für einen Swing-Trade?
+
+Antworte kurz und präzise, damit ich das Ergebnis direkt in mein Trading-Journal kopieren kann.
+```

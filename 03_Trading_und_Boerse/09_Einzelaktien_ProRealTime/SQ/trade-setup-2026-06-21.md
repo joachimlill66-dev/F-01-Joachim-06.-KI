@@ -1,4 +1,4 @@
-> *Erstellt am: 2026-06-21*
+﻿> *Erstellt am: 2026-06-21*
 
 # 📈 Trade-Setup: Block Inc. (SQ)
 
@@ -30,3 +30,12 @@ Die massivste Unterstützung (die 50-Tage-Linie) liegt aktuell bei 67,37 $.
 - **ISIN:** US8522341036
 
 *Sobald die Order ausgeführt ist, aktualisieren wir den `portfolio-bestand.md` mit Stückzahl und genauem Einstandskurs.*
+
+
+---
+## 🔗 Weitere Dateien zu diesem Ticker
+- [[SQ/analyse-2026-06-21 1|analyse-2026-06-21 1]]
+- [[SQ/analyse-2026-06-21|analyse-2026-06-21]]
+- [[SQ/Notizen|Notizen]]
+- [[SQ/trade-setup-2026-06-21|trade-setup-2026-06-21]]
+- 🖼️ [[SQ/XYZ-Täglich.png|XYZ-Täglich.png]]

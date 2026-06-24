@@ -1,7 +1,7 @@
 # [Unternehmensname] ([TICKER]) - Technische Analyse
 
 > [!CAUTION]
-> **KI-ANWEISUNG:** Zwingend aktuelle Chart-Daten und Indikatoren (RSI, Bollinger) via `search_web` abfragen!
+> **KI-ANWEISUNG:** Zwingend aktuelle Chart-Daten und Indikatoren (RSI, Bollinger) via `search_web` abfragen! **Ausschließliche Quelle für Kurse ist Yahoo Finance** (`site:finance.yahoo.com`).
 
 **Datum:** [YYYY-MM-DD]
 **Aktueller Kurs:** [0,00] USD ([+/- 0,00] %)

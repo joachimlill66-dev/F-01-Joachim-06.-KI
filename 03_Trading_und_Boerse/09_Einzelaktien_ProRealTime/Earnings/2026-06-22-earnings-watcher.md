@@ -1,4 +1,4 @@
----
+﻿---
 Ticker: GOOGL, NVDA, TSLA, AVGO
 Quartal: N/A
 Datum: 2026-06-22
@@ -50,3 +50,13 @@ Revenue_Actual:
 ---
 **Links:** [[00_Trading_MOC|Zurück zur Trading-Übersicht]]
 **Tags:** #earnings #analyse #NVDA #GOOGL #TSLA #AVGO
+
+
+---
+## 🔗 Weitere Dateien zu diesem Ticker
+- [[Earnings/00_Earnings_MOC|00_Earnings_MOC]]
+- [[Earnings/2026-06-20-earnings-watcher|2026-06-20-earnings-watcher]]
+- [[Earnings/2026-06-21-earnings-watch|2026-06-21-earnings-watch]]
+- [[Earnings/2026-06-22-earnings-watcher|2026-06-22-earnings-watcher]]
+- [[Earnings/2026-06-23-earnings-watcher|2026-06-23-earnings-watcher]]
+- [[Earnings/2026-06-24-earnings-watcher|2026-06-24-earnings-watcher]]
