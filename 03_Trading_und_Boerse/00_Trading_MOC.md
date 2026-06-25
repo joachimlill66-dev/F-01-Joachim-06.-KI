@@ -71,6 +71,9 @@
 - 2026.06.24: Fundamentaldaten-Analyse für Amazon (AMZN) erstellt und als [[2026-06-24-Fundamentaldaten_AMZN]] im Ticker-Archiv gespeichert.
 - 2026.06.24: Batch-Generierung von 19 weiteren Einzelaktien-Analysen für das Allwetter-Portfolio. Ordner und Dateien gemäß Regel #7 unter `09_Einzelaktien_ProRealTime/[TICKER]/` erstellt und im `00_Einzelaktien_Index` verlinkt.
 - 2026.06.24: Fundamentaldaten-Analyse für Alphabet (GOOGL) mit neuen Lexikon-Wiki-Links generiert und als [[2026-06-24-Fundamentaldaten_GOOGL]] abgelegt.
+- **2026.06.25:** Workflow für `Order-Liste.2026-06-25.csv` abgeschlossen: GOOGL und AMZN als Stop-Loss aus dem Portfolio entfernt. `Portfolio-Übersicht.md` und `Portfolio-Historie.md` aktualisiert.
+- 2026.06.25: Post-Trade Analysen `2026-06-25-Post-Trade-GOOGL.md` und `2026-06-25-Post-Trade-AMZN.md` erstellt und im Journal-Master eingetragen.
+- 2026.06.25: `2026-06-25-NFP-Wochenausblick.md` im Marktüberblick erstellt (Makro-Planung für die anstehende NFP-Woche).
 
 ---
 **Tags:** #AMD #ANET #ARM #ASML #AVGO #NVDA #TSM #CRWD #NET #PANW #S #ZS #ADBE #GOOGL #AMZN #SQ #NKE #TSLA

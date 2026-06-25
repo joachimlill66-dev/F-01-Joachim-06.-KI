@@ -16,3 +16,4 @@
 | 2026-06-23 | 20.616,29 € | -13.729,78 € | 39.271,30 $ | +517,97 € | Live-Check. DATENQUELLE KORRIGIERT: ASML bei 1.793$, AVGO bei 392,13$. Beide Stops intakt. |
 | 2026-06-24 | 19.932,69 € | -10.204,24 € | 34.458,57 $ | -334,86 € | TSLA und AVGO ausgestoppt. NVDA ausgestoppt und neu gekauft! ROK neu. Korrektur mit echtem CSV-Export. |
 | 2026-06-24 | 19.614,34 € | -1.518,20 € | 24.162,95 $ | -220,48 € | ARM, PLTR, NKE, ROK ausgestoppt (Cash wieder freigesetzt). AVGO neu gekauft. Exposure sinkt deutlich. |
+| 2026-06-25 | 19.382,90 € | 4.913,08 € | 16.540,45 $ | -215,70 € | GOOGL und AMZN ausgestoppt. Cash-Bestand durch Verkäufe deutlich ins Plus gedreht (+4.913 €). |

@@ -1,6 +1,6 @@
 ﻿# Vault Inhaltsverzeichnis
 
-*(Zuletzt automatisch aktualisiert: 24.06.2026 23:33)*
+*(Zuletzt automatisch aktualisiert: 25.06.2026 22:14)*
 
 
 > [!abstract]- .agents
@@ -67,6 +67,7 @@
 >   - [[find_orphans_starten.bat]]
 >   - [[import_historie.py]]
 >   - [[scan_broken_links.ps1]]
+>   - [[scratch_fetch.py]]
 >   - [[START_ticker_crosslinks.bat]]
 >   - [[ticker_crosslinks_generieren.ps1]]
 >   - [[update-inhaltsverzeichnis.ps1]]
@@ -114,6 +115,8 @@
 >     - [[2026-06-22-marktueberblick]]
 >     - [[2026-06-23-marktueberblick]]
 >     - [[2026-06-24-marktueberblick]]
+>     - [[2026-06-25-marktueberblick]]
+>     - [[2026-06-25-NFP-Wochenausblick]]
 >   - **Morning Briefing/**
 >     - [[2026-06-19-markt-kompass]]
 >     - [[2026-06-20-morning-briefing]]
@@ -122,6 +125,7 @@
 >     - [[2026-06-22-wochenauftakt]]
 >     - [[2026-06-23-morning-briefing]]
 >     - [[2026-06-24-morning-briefing]]
+>     - [[2026-06-25-Morning-Briefing]]
 >   - **Outputs/**
 >     - [[2026-06-14-aktienanalyse-garp-value]]
 >     - [[2026-06-14-konkurrenzanalyse-garp-portfolio]]
@@ -177,11 +181,13 @@
 >     - [[2026-06-23-portfolio-bestand]]
 >     - [[2026-06-24-portfolio-bestand]]
 >     - [[2026-06-24-portfolio-bestand-22-00]]
+>     - [[2026-06-25-portfolio-bestand]]
 >     - [[Detaillierter Bericht - 945191 (U7630640) - Alle Instrumente2026-06+22.csv]]
 >     - [[Detaillierter Bericht - 945191 (U7630640)2026-06-23 - Alle Instrumente.csv]]
 >     - [[Order-Liste 5 Jahre.csv]]
 >     - [[Order-Liste.2026-06-23.csv]]
 >     - [[Order-Liste.2026-06-24-10-00.csv]]
+>     - [[Order-Liste.2026-06-25.csv]]
 >     - [[Order-Liste2026-06-24.csv]]
 >     - [[Portfolio ProRealTime Screenshot 2026-06-20 193555.png]]
 >     - [[Portfolio.2026-06-24.csv]]
@@ -257,6 +263,7 @@
 >     - [[2026-06-22-earnings-watcher]]
 >     - [[2026-06-23-earnings-watcher]]
 >     - [[2026-06-24-earnings-watcher]]
+>     - [[2026-06-25-Earnings-Watcher]]
 >   - **FSLR/**
 >     - [[2026-06-24-Fundamentaldaten_FSLR]]
 >     - [[analyse-2026-06-21]]
@@ -415,6 +422,8 @@
 >     - [[analyse-2026-06-21]]
 >     - [[Notizen]]
 >     - [[VRTX-Täglich2026-06-21.png]]
+>   - **Weekly Reviews/**
+>     - [[2026-06-25-Weekly-Review]]
 >   - **WM/**
 >     - [[2026-06-24-Fundamentaldaten_WM]]
 >     - [[Analyse_WM]]
@@ -440,6 +449,8 @@
 >     - [[2026-06-24-Post-Trade-NKE]]
 >     - [[2026-06-24-Post-Trade-PLTR]]
 >     - [[2026-06-24-Post-Trade-ROK]]
+>     - [[2026-06-25-Post-Trade-AMZN]]
+>     - [[2026-06-25-Post-Trade-GOOGL]]
 >   - **03_Archiv_Historie/**
 >     - [[2024_Trading_Logbuch]]
 >     - [[2025_Trading_Logbuch]]

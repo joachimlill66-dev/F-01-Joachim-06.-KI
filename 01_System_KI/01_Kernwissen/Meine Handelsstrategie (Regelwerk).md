@@ -9,9 +9,13 @@
 **Kurz gesagt:** Die **`Strategie`** sagt uns, dass wir ein solides Haus bauen wollen und welche Werkzeuge wir nutzen. Das **`Regelwerk`** ist der exakte Bauplan, der dir vorschreibt, wie viele Zentimeter jeder Ziegelstein dick sein muss, damit das Haus nicht einstürzt.
 ---
 
-## 1. Anlage-Universum
+## 1. Anlage-Universum & Konten-Trennung
 
 **Fokus:** Ausschließliches Trading von ausgewählten Einzelaktien (aktueller Tech-Fokus: NVDA, TSLA, GOOGL, AVGO). Keine ETFs oder breiten Indexfonds in diesem Strategie-Ansatz.
+
+**Die eiserne Konten-Trennung:**
+- **Langfrist-Depot (Core):** Übergeordneter Trendhandel. Entscheidungen werden **ausschließlich "End of Day" (EOD)** nach 22:00 Uhr getroffen. Keine Reaktionen auf Intraday-Lärm!
+- **Prop-Trading (Ufunded / Setup C):** Kurzfristiger Handel. Hier ist aktives Tagesgeschäft mit engen Stops erlaubt und gewollt.
 
 **Auswahlkriterien für neue Einzelaktien:**
 - Klare Marktführerschaft oder tiefer "Burggraben" (Moat).
@@ -29,7 +33,8 @@
 
 **Regel 2: Positionsgröße (Sizing) mathematisch korrekt**
 - Die Positionsgröße wird **immer rückwärts aus dem Stop-Loss und dem 1-2% Risiko-Limit berechnet!** 
-- *Beispiel:* Wenn der Stop-Loss 10% unter dem Kaufkurs liegt und du 1% des Gesamtkapitals riskieren willst, darf die Positionsgröße maximal 10% des Depots betragen. Ein pauschaler großer Depotanteil ist verboten, wenn dadurch die eiserne 1-2% Risiko-Regel gerissen wird!
+- *WICHTIG für Langfrist-Trades:* Um der "Dauer-Falle" zu entgehen, müssen Stop-Losses auf Tagesbasis signifikanten Abstand haben (z.B. 10-15% unter das letzte Tief oder den EMA 50). Das bedeutet mathematisch zwingend, dass die Positionsgröße **deutlich kleiner** ausfallen muss, um das 1% Risiko-Limit einzuhalten!
+- *Beispiel:* Wenn der Stop-Loss 15% unter dem Kaufkurs liegt und du 1% des Gesamtkapitals riskieren willst, darf die Positionsgröße maximal 6,6% des Depots betragen. Ein pauschaler großer Depotanteil ist verboten!
 - Es wird nie "All-In" in eine Position gegangen. Tranchen-Käufe (z.B. erst 50% der Zielgröße kaufen, bei Bestätigung weitere 50%) sind bevorzugt.
 
 ---
@@ -38,12 +43,12 @@
 
 Ein Kauf darf **nur** erfolgen, wenn mindestens einer der folgenden Setups vorliegt und das *Trade-Journal* vorher ausgefüllt wurde!
 
-**Zwingender Timeframe für Setup A & B:** Ausschließlich Tageschart (Daily) oder Wochenchart (Weekly). Intraday-Ausbrüche oder 15-Minuten-Trends werden für diese Setups rigoros ignoriert.
+**Zwingender Timeframe für Setup A & B:** Ausschließlich Tageschart (Daily) oder Wochenchart (Weekly). Intraday-Ausbrüche oder 15-Minuten-Trends werden für diese Setups rigoros ignoriert. Keine Käufe tagsüber aus der Emotion heraus.
 
 **Setup A: Buy the Dip (Pullback an den Support)**
 - Die Aktie befindet sich übergeordnet in einem intakten Aufwärtstrend.
 - Sie korrigiert kurzfristig und testet eine signifikante Unterstützungszone (Support-Level, starker Gleitender Durchschnitt wie EMA 50 oder EMA 200).
-- Es bildet sich ein klares Umkehrsignal (z.B. Hammer-Kerze, grüner Tagesschluss nach tiefem Intraday-Drop). *Wir fangen niemals fallende Messer ohne Bestätigung!*
+- Es bildet sich ein klares Umkehrsignal (z.B. Hammer-Kerze, **grüner Tagesschluss** nach tiefem Intraday-Drop). *Wir fangen niemals fallende Messer ohne Bestätigung (Daily Close)!*
 
 **Setup B: Der Ausbruch (Breakout)**
 - Die Aktie konsolidiert über längere Zeit (Seitwärtsphase) und bricht mit hohem Handelsvolumen über einen starken Widerstand aus.
@@ -65,6 +70,7 @@ Ein Kauf darf **nur** erfolgen, wenn mindestens einer der folgenden Setups vorli
 ### Notbremse (Stop-Loss)
 - Jeder Trade hat einen vorher definierten Stop-Loss.
 - **Systematik:** Kombination aus "Hartem Stop" (Disaster Protection direkt im Broker) und "Mentalem Stop" (Tagesschluss unterbricht den langfristigen Trend).
+- **Die EOD-Regel (Langfrist-Portfolio):** Stops im Langfrist-Bereich werden *weit* gesetzt (ATR-basiert oder unter dem EMA 50). Ausstiege erfolgen **niemals intraday aus Panik**, sondern erst, wenn der Tageschart nach 22:00 Uhr signifikant unter dem Stop schließt.
 - **Eiserne Regel:** Ein Stop-Loss wird *niemals* nach unten verschoben, wenn die Position im Minus ist!
 
 ### Gewinne mitnehmen (Take-Profit & Trailing Stop)
@@ -84,9 +90,10 @@ Ein Kauf darf **nur** erfolgen, wenn mindestens einer der folgenden Setups vorli
 
 ## 5. Das psychologische Check-up
 
-Bevor auf "Kaufen" oder "Verkaufen" geklickt wird, stelle ich mir drei Fragen:
-1. *Mache ich das gerade aus FOMO (Fear of Missing Out) oder Panik?*
-2. *Habe ich das Trade-Journal für diese Position ausgefüllt?*
-3. *Bin ich bereit, den vorher definierten Verlust am Stop-Loss ohne Emotionen zu akzeptieren?*
+Bevor auf "Kaufen" oder "Verkaufen" geklickt wird, stelle ich mir ab sofort **vier** Fragen:
+1. *Mache ich das gerade aus FOMO (Fear of Missing Out) oder Panik während des Handelstages?*
+2. *Ist es nach 22:00 Uhr (EOD-Regel) oder lasse ich mich von Intraday-Noise leiten?*
+3. *Habe ich das Trade-Journal für diese Position ausgefüllt und die Stop-Größe mathematisch berechnet?*
+4. *Bin ich bereit, den vorher definierten Verlust am Stop-Loss ohne Emotionen zu akzeptieren?*
 
-Wenn eine der Antworten negativ ausfällt: **Maus weglegen. 24 Stunden warten.**
+Wenn eine der Antworten negativ ausfällt: **Maus weglegen. Bis zum nächsten Tagesschluss warten.**

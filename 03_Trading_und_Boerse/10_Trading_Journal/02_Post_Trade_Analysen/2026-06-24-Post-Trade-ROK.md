@@ -18,7 +18,7 @@
 ## 3. Disziplin & Psychologie
 - [x] Wurde das Setup strikt nach Plan gehandelt?
 - [x] Wurde der Stop-Loss nachträglich ungerechtfertigt verschoben? *(Nein, aktiv als Risiko-Minimierung (Trailing) nachgezogen)*
-- [ ] Emotionale Reaktion auf den Trade: Perfektes Gefühl. "Free Trade".
+- [x] Emotionale Reaktion auf den Trade: Perfektes Gefühl. "Free Trade".
 
 ## 4. Key Learnings
 - *Was nehme ich aus diesem Trade für die Zukunft mit?*

@@ -40,3 +40,4 @@
 - 2026.06.20: Slash-Commands zur `Arbeitsanweisung für den KI-Assistenten.md` hinzugefügt und `Uebersicht_KI_Plugins_und_Skills.md` erstellt.
 - 2026.06.22: Neuer Ordnerbereich `System-Ordner` im MOC ergänzt und den umbenannten Ordner `90_Plans` integriert.
 - 2026.06.22: Neue [[09_Marktstrategien_Masterclass/00_Marktstrategien_Start|Marktstrategien Masterclass]] (Lektionen 1-9) generiert und verlinkt.
+- **2026.06.25:** `Meine Handelsstrategie (Regelwerk).md` verschärft: End-of-Day (EOD) Regel für das Langfrist-Depot eingeführt und Stop-Loss-Abstände (ATR-basiert) in Verbindung mit kleinerem Positions-Sizing erzwungen. Psychologisches Check-up angepasst.
