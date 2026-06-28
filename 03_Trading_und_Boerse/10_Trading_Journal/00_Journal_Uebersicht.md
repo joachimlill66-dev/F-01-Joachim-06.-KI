@@ -19,6 +19,9 @@
 | 2026-06-24 | ROK | Verkauf (Stop) | 90,1M | -8 | 457,80 $ | 458,99 $ | 459,00 $ | **+9,52 $** | [[02_Post_Trade_Analysen/2026-06-24-Post-Trade-ROK\|Analyse]] |
 | 2026-06-25 | GOOGL | Verkauf (Stop) | 245M | -15 | 347,07 $ | 336,69 $ | 339,74 $ | **-155,69 $** | [[02_Post_Trade_Analysen/2026-06-25-Post-Trade-GOOGL\|Analyse]] |
 | 2026-06-25 | AMZN | Verkauf (Stop) | 690M | -10 | 242,20 $ | 230,06 $ | 230,09 $ | **-121,39 $** | [[02_Post_Trade_Analysen/2026-06-25-Post-Trade-AMZN\|Analyse]] |
+| 2026-06-25 | AVGO | Verkauf (Stop) | 87,1M | -10 | 377,10 $ | 377,56 $ | 377,60 $ | **+4,60 $** | [[02_Post_Trade_Analysen/2026-06-25-Post-Trade-AVGO\|Analyse]] |
+| 2026-06-26 | ASML | Verkauf (Stop) | 279M | -5 | 1.797,00 $ | 1.782,97 $ | 1.804,00 $ | **-70,13 $** | [[02_Post_Trade_Analysen/2026-06-26-Post-Trade-ASML\|Analyse]] |
+| 2026-06-26 | NVDA | Verkauf (Stop) | 254M | -20 | 201,55 $ | 191,47 $ | 191,47 $ | **-201,60 $** | [[02_Post_Trade_Analysen/2026-06-26-Post-Trade-NVDA\|Analyse]] |
 
 ---
 
@@ -28,8 +31,6 @@
 
 | Einstiegsdatum | Ticker | Richtung | Menge | Einstieg   | Aktueller Kurs | Harter Stop-Loss | Latenter PnL                              | Link zur Pre-Trade Analyse |
 | :------------- | :----- | :------- | :---- | :--------- | :------------- | :--------------- | :---------------------------------------- | :------------------------- |
-| 2026-06-23     | ASML   | Long     | 5     | 1.797,00 $ | 1.746,61 $     | 1.707,15 $       | <span style="color:red">-251,95 $</span>  | -                          |
-| 2026-06-23     | NVDA   | Long     | 20    | 201,55 $   | 200,90 $       | 191,47 $         | <span style="color:red">-13,00 $</span>   | -                          |
-| 2026-06-24     | AVGO   | Long     | 10    | 377,10 $   | 378,94 $       | 360,89 $         | <span style="color:green">+18,40 $</span> | -                          |
+| *Keine*        | -      | -        | -     | -          | -              | -                | -                                         | -                          |
 
 ---

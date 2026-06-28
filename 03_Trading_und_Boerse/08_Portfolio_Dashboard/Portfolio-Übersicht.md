@@ -15,17 +15,15 @@
 
 | Aktie / Ticker | Anzahl | Kaufkurs | Aktueller Kurs | Exposure (USD) | Gewinn/Verlust | Notizen |
 | --- | --- | --- | --- | --- | --- | --- |
-| ASML (ASML) | 5 | 1.797,00 $ | 1.746,61 $ | 8.733,05 $ | -251,95 $ | Stop: 1.707,15 $ |
-| Broadcom (AVGO) | 10 | 377,10 $ | 378,94 $ | 3.789,40 $ | +18,40 $ | Stop: 360,89 $ |
-| Nvidia (NVDA) | 20 | 201,55 $ | 200,90 $ | 4.018,00 $ | -13,00 $ | Stop: 191,47 $ |
-| **GESAMTSUMME** | | | | **16.540,45 $**| **-246,55 $** | |
+| *Keine aktiven Positionen* | - | - | - | - | - | |
+| **GESAMTSUMME** | | | | **0,00 $**| **0,00 $** | |
 
 ### Schlüsselmetriken (Langfrist)
 | Metrik | Aktueller Wert | Notizen |
 | ------ | -------------- | ------- |
-| Portfolio-Gesamtwert | 19.382,90 € | Aktienwert (14.469,82 €) + Cash |
-| Potenzieller Gewinn | -215,70 € | PnL in USD (-246,55 $) umgerechnet (Rate: ~1.143) |
-| Cash-Bestand | 4.913,08 € | GOOGL & AMZN Verkäufe |
+| Portfolio-Gesamtwert | 19.366,14 € | 100% Cash-Bestand |
+| Potenzieller Gewinn | 0,00 € | Portfolio leer |
+| Cash-Bestand | 19.366,14 € | Nach Stop-Outs von ASML, NVDA, AVGO |
 
 ---
 

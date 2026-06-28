@@ -40,5 +40,4 @@ Dein "Zweites Gehirn" lebt und atmet durch diese Regeln. Wenn sich deine Trading
 
 ---
 
-🎉 **Herzlichen Glückwunsch! Du hast die Obsidian Masterclass erfolgreich abgeschlossen.** 🎉
-Du bist jetzt offiziell ein Profi im Umgang mit deinem System. Zurück zur Übersicht geht es hier: [[00_Masterclass_Start]]
+🚀 **Bereit für das nächste Modul?** Es geht weiter mit der visuellen Ebene: 👉 [[Lektion_12_Canvas_und_Base]]

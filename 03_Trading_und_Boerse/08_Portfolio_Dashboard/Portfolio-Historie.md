@@ -17,3 +17,4 @@
 | 2026-06-24 | 19.932,69 € | -10.204,24 € | 34.458,57 $ | -334,86 € | TSLA und AVGO ausgestoppt. NVDA ausgestoppt und neu gekauft! ROK neu. Korrektur mit echtem CSV-Export. |
 | 2026-06-24 | 19.614,34 € | -1.518,20 € | 24.162,95 $ | -220,48 € | ARM, PLTR, NKE, ROK ausgestoppt (Cash wieder freigesetzt). AVGO neu gekauft. Exposure sinkt deutlich. |
 | 2026-06-25 | 19.382,90 € | 4.913,08 € | 16.540,45 $ | -215,70 € | GOOGL und AMZN ausgestoppt. Cash-Bestand durch Verkäufe deutlich ins Plus gedreht (+4.913 €). |
+| 2026-06-27 | 19.366,14 € | 19.366,14 € | 0,00 $ | 0,00 € | Kompletter Exit. Alle verbliebenen Tech-Werte (ASML, NVDA, AVGO) ausgestoppt. Portfolio ist zu 100% in Cash. |

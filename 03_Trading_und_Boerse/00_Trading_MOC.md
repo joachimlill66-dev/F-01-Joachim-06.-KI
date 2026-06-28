@@ -1,6 +1,6 @@
 # 📈 Trading & Börse MOC (Map of Content)
 
-> *Zuletzt bearbeitet am: 2026-06-22*
+> *Zuletzt bearbeitet am: 2026-06-27*
 
 > [!NOTE]  
 > Dies ist dein Inhaltsverzeichnis für den gesamten Bereich **Trading & Börse**. Anstatt dich durch Ordner zu klicken, kannst du hier die wichtigsten Einstiegspunkte sammeln.
@@ -74,6 +74,7 @@
 - **2026.06.25:** Workflow für `Order-Liste.2026-06-25.csv` abgeschlossen: GOOGL und AMZN als Stop-Loss aus dem Portfolio entfernt. `Portfolio-Übersicht.md` und `Portfolio-Historie.md` aktualisiert.
 - 2026.06.25: Post-Trade Analysen `2026-06-25-Post-Trade-GOOGL.md` und `2026-06-25-Post-Trade-AMZN.md` erstellt und im Journal-Master eingetragen.
 - 2026.06.25: `2026-06-25-NFP-Wochenausblick.md` im Marktüberblick erstellt (Makro-Planung für die anstehende NFP-Woche).
+- 2026.06.27: Relative-Stärke-Screener (`2026-06-27-Relative-Staerke-Screener.md`) generiert und im Marktüberblick abgelegt. Fokus auf Rotation und Healthcare/Financials/SmallCaps.
 
 ---
-**Tags:** #AMD #ANET #ARM #ASML #AVGO #NVDA #TSM #CRWD #NET #PANW #S #ZS #ADBE #GOOGL #AMZN #SQ #NKE #TSLA
+**Tags:** #AMD #ANET #ARM #ASML #AVGO #NVDA #TSM #CRWD #NET #PANW #S #ZS #ADBE #GOOGL #AMZN #SQ #NKE #TSLA #LLY #JPM #CRM #JNJ #IBM #MSFT #UNH #COST #V #PG #FRPT #VERI #AVTX #BRBR #ELF #RelativeStaerke

@@ -13,15 +13,44 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01_System_KI/03_scripts/befehls-uebersicht.md",
+                "file": "03_Trading_und_Boerse/01_Marktueberblick/market-updates/2026-06-27-Relative-Staerke-Screener.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "befehls-uebersicht"
+              "title": "2026-06-27-Relative-Staerke-Screener"
+            }
+          },
+          {
+            "id": "d9db08b51b6fb749",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "03_Trading_und_Boerse/10_Trading_Journal/01_Pre_Trade_Planung/00_Leeres_Trade_Journal 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "00_Leeres_Trade_Journal 1"
+            }
+          },
+          {
+            "id": "abf0631a21a51f59",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "01_System_KI/01_Kernwissen/Meine Handelsstrategie (Regelwerk).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Meine Handelsstrategie (Regelwerk)"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -184,46 +213,47 @@
       "note-reader:Note Reader": false
     }
   },
-  "active": "b58f694fe8709746",
+  "active": "d9db08b51b6fb749",
   "lastOpenFiles": [
-    "03_Trading_und_Boerse/01_Marktueberblick/market-updates/2026-06-25-NFP-Wochenausblick.md",
-    "03_Trading_und_Boerse/08_Portfolio_Dashboard/Portfolio-Übersicht.md",
+    "01_System_KI/02_prompts/`workflows/2023-12-05 Coaching-Prompt.md",
     "01_System_KI/01_Kernwissen/Meine Handelsstrategie (Regelwerk).md",
-    "03_Trading_und_Boerse/10_Trading_Journal/00_Journal_Uebersicht.md",
-    "04_Wissen_Ressourcen/01_Master_Class/10_Fundamentalanalyse_Masterclass/00_Übersicht.md",
-    "03_Trading_und_Boerse/10_Trading_Journal/02_Post_Trade_Analysen/2026-06-24-Post-Trade-PLTR.md",
-    "03_Trading_und_Boerse/10_Trading_Journal/02_Post_Trade_Analysen/2026-06-24-Post-Trade-ROK.md",
-    "03_Trading_und_Boerse/10_Trading_Journal/02_Post_Trade_Analysen/2026-06-25-Post-Trade-AMZN.md",
-    "03_Trading_und_Boerse/10_Trading_Journal/02_Post_Trade_Analysen/2026-06-25-Post-Trade-GOOGL.md",
-    "03_Trading_und_Boerse/10_Trading_Journal/01_Pre_Trade_Planung/00_Leeres_Trade_Journal 1.md",
-    "03_Trading_und_Boerse/08_Portfolio_Dashboard/Portfolio-Historie.md",
-    "03_Trading_und_Boerse/01_Marktueberblick/Morning Briefing/2026-06-25-Morning-Briefing.md",
-    "03_Trading_und_Boerse/08_Portfolio_Dashboard/Snapshots/2026-06-25-portfolio-bestand.md",
-    "03_Trading_und_Boerse/01_Marktueberblick/market-updates/2026-06-25-marktueberblick.md",
-    "01_System_KI/03_scripts/aktive-cronjobs.md",
-    "03_Trading_und_Boerse/09_Einzelaktien_ProRealTime/Weekly Reviews/2026-06-25-Weekly-Review.md",
+    "04_Wissen_Ressourcen/08_Wissen/Bill_Gates_Zukunft_der_Agenten.md",
+    "04_Wissen_Ressourcen/08_Wissen/BME_Leitfaden_NachhaltigeBeschaffung2019_final.pdf",
+    "04_Wissen_Ressourcen/06_lektionen/Mindset_Vera_Birkenbihl_Manifestieren.md",
+    "01_System_KI/02_prompts/`workflows/2023-11-27 Effektivität von ChatGPT auf beeindruckende Weise steigert!.md",
+    "01_System_KI/02_prompts/`workflows/2026-06-18 Der Master-Prompt für euren TradingView KI Copiloten..md",
+    "01_System_KI/02_prompts/README.md",
+    "01_System_KI/02_prompts/aktien/2026-06-27  Die Kern-These herausschälen (für Börsenbriefe und Aktienartikel).md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Demo-Canvas.canvas",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_01_Markdown_Grundlagen.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_12_Canvas_und_Base.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_13_Das_Kontextmenue.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_11_Das_System_steuern.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_10_Cronjobs_und_Skripte.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/00_Masterclass_Start.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_09_Slash_Befehle_verstehen.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_08_Plugins_Grundlagen.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_07_Properties_Metadaten.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_04_Tags_und_Suche.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_03_MOCs_Inhaltsverzeichnisse.md",
+    "04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_02_Wiki_Links.md",
+    "03_Trading_und_Boerse/01_Marktueberblick/market-updates/2026-06-27-Relative-Staerke-Screener.md",
+    "01_System_KI/02_prompts/aktien/2026-06-27 Nenne mir 10 Werte aus dem S&P 500 und 5 Werte aus dem Russell 2000.md",
+    "01_System_KI/02_prompts/`workflows/2026-06-14-prompt-generator-meta.md",
+    "01_System_KI/02_prompts/`workflows/2026-06-14-sparringspartner-haltung.md",
+    "01_System_KI/02_prompts/`workflows/2026-06-14-tutorial-gpt.md",
+    "01_System_KI/02_prompts/`workflows/2026-06-14-master-persona-experte.md",
+    "01_System_KI/02_prompts/`workflows",
+    "03_Trading_und_Boerse/08_Portfolio_Dashboard/Snapshots/Order-Liste.2026-06-27.csv",
     "03_Trading_und_Boerse/09_Einzelaktien_ProRealTime/Weekly Reviews",
-    "03_Trading_und_Boerse/09_Einzelaktien_ProRealTime/Earnings/2026-06-25-Earnings-Watcher.md",
     "01_System_KI/03_scripts/scratch_fetch.py",
-    "01_System_KI/03_scripts/befehls-uebersicht.md",
-    "02_Tagebuch/2026-06-24-tagebuch.md",
-    "03_Trading_und_Boerse/10_Trading_Journal/01_Pre_Trade_Planung/00_Leeres_Trade_Journal.md",
-    "03_Trading_und_Boerse/10_Trading_Journal/01_Pre_Trade_Planung/2026-06-16-trade-journal-amzn.md",
     "03_Trading_und_Boerse/10_Trading_Journal/01_Pre_Trade_Planung",
     "03_Trading_und_Boerse/07_Pending Orders/Listen---01...Pending-Orders2026-06-21 18-00.png",
     "03_Trading_und_Boerse/07_Pending Orders/Listen---01...Pending-Orders2026-06-21.png",
-    "01_System_KI/03_scripts/01_Vorlagendateien/trade-journal-vorlage.md",
-    "03_Trading_und_Boerse/00_Trading_MOC.md",
-    "03_Trading_und_Boerse/10_Trading_Journal/02_Post_Trade_Analysen/2026-06-24-Post-Trade-ARM.md",
-    "01_System_KI/03_scripts/01_Vorlagendateien/post-trade-vorlage.md",
-    "01_System_KI/03_scripts/00_KI_Verhaltensregeln.md",
     "03_Trading_und_Boerse/10_Trading_Journal/03_Archiv_Historie",
     "01_System_KI/03_scripts/import_historie.py",
     "03_Trading_und_Boerse/08_Portfolio_Dashboard/Snapshots/Order-Liste 5 Jahre.csv",
     "03_Trading_und_Boerse/10_Trading_Journal/02_Post_Trade_Analysen",
-    "03_Trading_und_Boerse/10_Trading_Journal",
-    "03_Trading_und_Boerse/08_Portfolio_Dashboard/Snapshots/Order-Liste.2026-06-24-10-00.csv",
-    "01_System_KI/03_scripts/batch_fundamentaldaten.py",
     "04_Wissen_Ressourcen/08_Wissen/Kreuter/thymian.jpg",
     "04_Wissen_Ressourcen/08_Wissen/Kreuter/petersilie.jpg",
     "04_Wissen_Ressourcen/08_Wissen/Kreuter/schnittlauch.jpg",

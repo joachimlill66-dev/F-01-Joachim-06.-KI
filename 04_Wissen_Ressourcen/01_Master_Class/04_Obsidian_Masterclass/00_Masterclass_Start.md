@@ -39,4 +39,12 @@ Dieser Kurs ist in drei Module unterteilt. Klicke dich einfach durch die einzeln
 
 ---
 
+## 🟣 Modul 4: Der Experten-Werkzeugkasten
+*Ziel: Räumliches Denken und visuelle Organisation.*
+
+12. [[Lektion_12_Canvas_und_Base]] – *Die unendliche Leinwand und Datenbanken verstehen*
+13. [[Lektion_13_Das_Kontextmenue]] – *Rechtsklick-Magie und Audio-Hörbücher*
+
+---
+
 🚀 **Bereit? Dann starte hier mit der ersten Lektion:** 👉 [[Lektion_01_Markdown_Grundlagen]]

@@ -1,6 +1,6 @@
 # 🧠 Wissen & Ressourcen MOC
 
-> *Zuletzt bearbeitet am: 2026-06-24*
+> *Zuletzt bearbeitet am: 2026-06-27*
 
 > [!NOTE]  
 > Dies ist deine zentrale Anlaufstelle für alles, was du lernst, liest oder abspeicherst.
@@ -13,9 +13,11 @@
 - [[06_lektionen/lektion-02-qualitaetsaktien-finden|lektion-02-qualitaetsaktien-finden]]
 - [[06_lektionen/lektion-03-trading-lernplan-fahrplan|lektion-03-trading-lernplan-fahrplan]]
 - [[06_lektionen/Trading_Psychologie_Erfolgsmessung|Trading_Psychologie_Erfolgsmessung]] (Gefühls-Erfolg vs. Messbarer Erfolg)
+- [[06_lektionen/Mindset_Vera_Birkenbihl_Manifestieren|Mindset_Vera_Birkenbihl_Manifestieren]] (Kernerkenntnisse und Zitate zu Resonanz und Manifestation)
 
 ## 🗄️ 3. Altes Wissens-Archiv (08_Wissen)
 - `08_Wissen` (Dein historisches Archiv)
+- [[08_Wissen/Bill_Gates_Zukunft_der_Agenten|Bill_Gates_Zukunft_der_Agenten]] (Übersetzung & Zusammenfassung: Die Zukunft der KI-Agenten)
 
 ## 📖 4. Trading-Wissen & Playbooks (10_Wissen_und_Playbooks)
 - [[10_Wissen_und_Playbooks/Portfolio_Aufbau_Logbuch_2026|Portfolio_Aufbau_Logbuch_2026]] (Chronologische Dokumentation der Portfolio Erstellung)
@@ -36,6 +38,8 @@
 - 2026.06.20: Neuer Bereich "Trading Psychologie & Mindset" hinzugefügt.
 - 2026.06.22: Toter Link zum gelöschten Ordner `04.Scans` entfernt.
 - 2026.06.24: Wissen MOC komplett an die neue Ordner-Nummerierung (01, 06, 08, 10) angepasst und strukturiert.
+- 2026.06.27: Neue Lektion [[06_lektionen/Mindset_Vera_Birkenbihl_Manifestieren]] angelegt und im MOC verlinkt.
+- 2026.06.27: Bill Gates Essay [[08_Wissen/Bill_Gates_Zukunft_der_Agenten]] übersetzt und im Archiv abgelegt.
 
 ---
 ## 🔗 Weitere Dateien zu diesem Ordner

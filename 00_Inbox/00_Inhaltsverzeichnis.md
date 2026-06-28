@@ -1,6 +1,6 @@
 ﻿# Vault Inhaltsverzeichnis
 
-*(Zuletzt automatisch aktualisiert: 25.06.2026 22:14)*
+*(Zuletzt automatisch aktualisiert: 28.06.2026 00:00)*
 
 
 > [!abstract]- .agents
@@ -26,10 +26,14 @@
 >   - [[Strategie-Kompass]]
 >   - [[Uebersicht_KI_Plugins_und_Skills]]
 > - **02_prompts/**
->   - [[2026-06-14-master-persona-experte]]
->   - [[2026-06-14-prompt-generator-meta]]
->   - [[2026-06-14-sparringspartner-haltung]]
->   - [[2026-06-14-tutorial-gpt]]
+>   - **`workflows/**
+>     - [[2023-11-27 Effektivität von ChatGPT auf beeindruckende Weise steigert!]]
+>     - [[2023-12-05 Coaching-Prompt]]
+>     - [[2026-06-14-master-persona-experte]]
+>     - [[2026-06-14-prompt-generator-meta]]
+>     - [[2026-06-14-sparringspartner-haltung]]
+>     - [[2026-06-14-tutorial-gpt]]
+>     - [[2026-06-18 Der Master-Prompt für euren TradingView KI Copiloten.]]
 >   - **aktien/**
 >     - [[2026-06-14-advocatus-diaboli-anti-sycophancy]]
 >     - [[2026-06-14-alpha-code-kompakt]]
@@ -41,6 +45,8 @@
 >     - [[2026-06-14-stoxx-600-screening]]
 >     - [[2026-06-14-tradingview-ideen-prompt]]
 >     - [[2026-06-20-weekly-portfolio-review-template]]
+>     - [[2026-06-27  Die Kern-These herausschälen (für Börsenbriefe und Aktienartikel)]]
+>     - [[2026-06-27 Nenne mir 10 Werte aus dem S&P 500 und 5 Werte aus dem Russell 2000]]
 >   - **makro/**
 >     - [[2026-06-14-daily-market-overview]]
 >     - [[2026-06-14-intermarket-analyse]]
@@ -117,6 +123,7 @@
 >     - [[2026-06-24-marktueberblick]]
 >     - [[2026-06-25-marktueberblick]]
 >     - [[2026-06-25-NFP-Wochenausblick]]
+>     - [[2026-06-27-Relative-Staerke-Screener]]
 >   - **Morning Briefing/**
 >     - [[2026-06-19-markt-kompass]]
 >     - [[2026-06-20-morning-briefing]]
@@ -188,6 +195,7 @@
 >     - [[Order-Liste.2026-06-23.csv]]
 >     - [[Order-Liste.2026-06-24-10-00.csv]]
 >     - [[Order-Liste.2026-06-25.csv]]
+>     - [[Order-Liste.2026-06-27.csv]]
 >     - [[Order-Liste2026-06-24.csv]]
 >     - [[Portfolio ProRealTime Screenshot 2026-06-20 193555.png]]
 >     - [[Portfolio.2026-06-24.csv]]
@@ -450,7 +458,10 @@
 >     - [[2026-06-24-Post-Trade-PLTR]]
 >     - [[2026-06-24-Post-Trade-ROK]]
 >     - [[2026-06-25-Post-Trade-AMZN]]
+>     - [[2026-06-25-Post-Trade-AVGO]]
 >     - [[2026-06-25-Post-Trade-GOOGL]]
+>     - [[2026-06-26-Post-Trade-ASML]]
+>     - [[2026-06-26-Post-Trade-NVDA]]
 >   - **03_Archiv_Historie/**
 >     - [[2024_Trading_Logbuch]]
 >     - [[2025_Trading_Logbuch]]
@@ -462,6 +473,7 @@
 >   - [[00_Master_Class_Index]]
 >   - **04_Obsidian_Masterclass/**
 >     - [[00_Masterclass_Start]]
+>     - [[Demo-Canvas.canvas]]
 >     - [[Lektion_01_Markdown_Grundlagen]]
 >     - [[Lektion_02_Wiki_Links]]
 >     - [[Lektion_03_MOCs_Inhaltsverzeichnisse]]
@@ -473,6 +485,8 @@
 >     - [[Lektion_09_Slash_Befehle_verstehen]]
 >     - [[Lektion_10_Cronjobs_und_Skripte]]
 >     - [[Lektion_11_Das_System_steuern]]
+>     - [[Lektion_12_Canvas_und_Base]]
+>     - [[Lektion_13_Das_Kontextmenue]]
 >   - **05_KI_Second_Brain_Masterclass/**
 >     - [[00_KI_Second_Brain_Start]]
 >     - [[Lektion_01_Was_ist_ein_KI_Second_Brain]]
@@ -549,10 +563,12 @@
 >   - [[lektion-01-aktienbewertung-kennzahlen]]
 >   - [[lektion-02-qualitaetsaktien-finden]]
 >   - [[lektion-03-trading-lernplan-fahrplan]]
+>   - [[Mindset_Vera_Birkenbihl_Manifestieren]]
 >   - [[Trading_Psychologie_Erfolgsmessung]]
 > - **08_Wissen/**
 >   - [[10-finger-system-tastaturlayout-de.pdf]]
 >   - [[20231224_220743.jpg]]
+>   - [[Bill_Gates_Zukunft_der_Agenten]]
 >   - [[BME_Leitfaden_NachhaltigeBeschaffung2019_final.pdf]]
 >   - [[Checkliste für Probleme.pdf]]
 >   - [[Checkliste_Erfolgreicher_Start_als_neuer_Einkaufsleiter.pdf]]

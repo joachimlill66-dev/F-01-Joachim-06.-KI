@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"60a886a877ff48ab","type":"text","text":"# 👋 Willkommen auf deinem ersten Canvas!\n\nDas hier ist keine normale Text-Notiz, sondern eine unendliche Leinwand (Whiteboard).\n\nDu kannst hier drauf **Doppelklicken**, um neue Textboxen zu erstellen, oder Notizen aus der Seitenleiste einfach per Drag & Drop reinziehen.","x":-450,"y":-150,"width":400,"height":250},
+		{"id":"b3e0c0d123456789","type":"file","file":"04_Wissen_Ressourcen/01_Master_Class/04_Obsidian_Masterclass/Lektion_12_Canvas_und_Base.md","x":150,"y":-200,"width":500,"height":550},
+		{"id":"c4f1d1e234567890","type":"text","text":"⬅️ **Die Pfeile**\n\nMan kann die Ränder einer Karte anklicken und ziehen, um solche Pfeile zu erstellen! So baut man Mindmaps.","x":-300,"y":200,"width":250,"height":150},
+		{"id":"d41b14eb5082f668","x":150,"y":440,"width":250,"height":160,"type":"text","text":"Mein erster Text, wo ich selber hier hineinspreche zum Testen. "}
+	],
+	"edges":[
+		{"id":"e7c4f1d1e2345678","fromNode":"60a886a877ff48ab","fromSide":"right","toNode":"b3e0c0d123456789","toSide":"left","color":"1"},
+		{"id":"f8d5e2f345678901","fromNode":"60a886a877ff48ab","fromSide":"bottom","toNode":"c4f1d1e234567890","toSide":"top","color":"3"},
+		{"id":"b9cf6e5928de8dee","fromNode":"d41b14eb5082f668","fromSide":"top","toNode":"b3e0c0d123456789","toSide":"bottom"}
+	]
+}
